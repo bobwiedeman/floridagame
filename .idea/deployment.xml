@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="FloridaGame" uploadOnCheckin="d7bfea81-2d2d-429a-89e4-72ec1c26692e">
+    <serverData>
+      <paths name="FloridaGame">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="FloridaGame" />
+  </component>
+</project>
+
